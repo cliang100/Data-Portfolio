@@ -151,4 +151,4 @@ where dea.continent != ''
 Select *
 From PercentPopulationVaccinated
 
--- Create more views for each of the thingies
+-- Can create more views for other data
